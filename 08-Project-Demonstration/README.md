@@ -97,7 +97,11 @@ The complete project demonstration video will include:
 - Automatic Catalog Task Creation
 - Final Output
 
-Demo Video Link: To be added after uploading the video to Google Drive.
+## Project Demo Video
+
+The complete project demonstration video includes the ServiceNow Flow Designer configuration, Standard Laptop procurement workflow, testing process, and final Catalog Task output.
+
+**Demo Video:** [Watch Project Demonstration](https://drive.google.com/file/d/11zJNUuhb8p7EOGA4JLhh1RR5et6J97oW/view?usp=sharing)
 
 ## Final Result
 The project was successfully implemented and tested using ServiceNow Flow Designer.
